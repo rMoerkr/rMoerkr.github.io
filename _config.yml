@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ÕÆÉÏß÷·½
+title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: Ray Fang
-language: zh-cn
+author: John Doe
+language: en
 timezone: ''
 
 # URL
@@ -97,8 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: false
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
+  type: ''
