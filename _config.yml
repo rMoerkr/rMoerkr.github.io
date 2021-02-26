@@ -97,13 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: meilidu
+theme: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:rmoerkr/rmoerkr.github.io.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: master
-  message: [message]
-  token: 16228ab0debbb70312dd9c72f4d575469eef5661
